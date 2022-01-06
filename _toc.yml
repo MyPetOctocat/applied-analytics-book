@@ -1,0 +1,7 @@
+# In _toc.yml
+format: jb-book
+root: landing-page
+chapters:
+- file: usecase
+- file: data_generation
+- file: analysis
